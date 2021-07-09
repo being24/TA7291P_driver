@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="TA7291P_driver",
-    version="0.0.1",
+    version="0.0.2",
     author="being24",
     author_email="being24@gmail.com",
     description="TA7291P driver with pigpio and pca9685 on Raspberry pi",

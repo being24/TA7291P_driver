@@ -3,7 +3,7 @@
 
 import time
 
-from TA7291P_driver import TA7291P_with_PCA9685 as MOTOR
+from TA7291P_driver import TA7291P as MOTOR
 
 
 if __name__ == "__main__":
